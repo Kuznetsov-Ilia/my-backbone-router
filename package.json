@@ -1,6 +1,6 @@
 {
   "name": "my-backbone-router",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "jsnext:main": "index.es",
@@ -11,9 +11,9 @@
     "deploy": "git add . && git commit -am 'fix' && git push && npm publish"
   },
   "dependencies": {
-    "my-event": "^1.0.0", 
-    "my-history": "^1.0.0",
-    "my-util": "^1.0.0"
+    "my-event": "^2.0.0", 
+    "my-history": "^2.0.0",
+    "my-util": "^2.0.0"
   },
   "devDependencies": {
     "rollup": "*",
